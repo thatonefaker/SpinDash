@@ -1,4 +1,11 @@
-# Sanicball
+# SpinDash
+
+SpinDash will be a spiritual successor of Sanicball using its code, I have done nothing with it yet, and will soon as i am still learning unity and such. 
+
+
+
+
+# Old README from sanicball's source code:
 
 Sanicball is discontinued and I will not be accepting any pull requests.
 However if you have trouble understanding parts the project structure or code you can message me directly (viciousbadger@protonmail.com), I'll try to help out.
